@@ -1,0 +1,194 @@
+[
+	{
+		"Type": {
+			"Text": "FIRST_NAME"
+		},
+		"ValueDetection": {
+			"Text": "NICK",
+			"Confidence": 98.27819061279297
+		}
+	},
+	{
+		"Type": {
+			"Text": "LAST_NAME"
+		},
+		"ValueDetection": {
+			"Text": "SAMPLE",
+			"Confidence": 99.3235855102539
+		}
+	},
+	{
+		"Type": {
+			"Text": "MIDDLE_NAME"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 7.776319980621338
+		}
+	},
+	{
+		"Type": {
+			"Text": "SUFFIX"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.64887237548828
+		}
+	},
+	{
+		"Type": {
+			"Text": "CITY_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "CITY",
+			"Confidence": 99.0293960571289
+		}
+	},
+	{
+		"Type": {
+			"Text": "ZIP_CODE_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "12345",
+			"Confidence": 99.1094970703125
+		}
+	},
+	{
+		"Type": {
+			"Text": "STATE_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "AR",
+			"Confidence": 99.22122955322266
+		}
+	},
+	{
+		"Type": {
+			"Text": "STATE_NAME"
+		},
+		"ValueDetection": {
+			"Text": "ARKANSAS",
+			"Confidence": 98.30435943603516
+		}
+	},
+	{
+		"Type": {
+			"Text": "DOCUMENT_NUMBER"
+		},
+		"ValueDetection": {
+			"Text": "999999",
+			"Confidence": 96.42704772949219
+		}
+	},
+	{
+		"Type": {
+			"Text": "EXPIRATION_DATE"
+		},
+		"ValueDetection": {
+			"Text": "03/05/2026",
+			"NormalizedValue": {
+				"Value": "2026-03-05T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.69390106201172
+		}
+	},
+	{
+		"Type": {
+			"Text": "DATE_OF_BIRTH"
+		},
+		"ValueDetection": {
+			"Text": "03/05/1960",
+			"NormalizedValue": {
+				"Value": "1960-03-05T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 97.93324279785156
+		}
+	},
+	{
+		"Type": {
+			"Text": "DATE_OF_ISSUE"
+		},
+		"ValueDetection": {
+			"Text": "03/05/2018",
+			"NormalizedValue": {
+				"Value": "2018-03-05T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.50406646728516
+		}
+	},
+	{
+		"Type": {
+			"Text": "ID_TYPE"
+		},
+		"ValueDetection": {
+			"Text": "DRIVER LICENSE FRONT",
+			"Confidence": 98.84593200683594
+		}
+	},
+	{
+		"Type": {
+			"Text": "ENDORSEMENTS"
+		},
+		"ValueDetection": {
+			"Text": "NONE",
+			"Confidence": 99.25650024414062
+		}
+	},
+	{
+		"Type": {
+			"Text": "VETERAN"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.61052703857422
+		}
+	},
+	{
+		"Type": {
+			"Text": "RESTRICTIONS"
+		},
+		"ValueDetection": {
+			"Text": "NONE",
+			"Confidence": 99.13471984863281
+		}
+	},
+	{
+		"Type": {
+			"Text": "CLASS"
+		},
+		"ValueDetection": {
+			"Text": "D",
+			"Confidence": 98.8929214477539
+		}
+	},
+	{
+		"Type": {
+			"Text": "ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "123 NORTH STREET",
+			"Confidence": 98.44525909423828
+		}
+	},
+	{
+		"Type": {
+			"Text": "COUNTY"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.59677124023438
+		}
+	},
+	{
+		"Type": {
+			"Text": "PLACE_OF_BIRTH"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.630859375
+		}
+	}
+]

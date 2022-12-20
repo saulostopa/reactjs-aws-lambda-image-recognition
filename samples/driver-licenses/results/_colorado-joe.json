@@ -1,0 +1,194 @@
+[
+	{
+		"Type": {
+			"Text": "FIRST_NAME"
+		},
+		"ValueDetection": {
+			"Text": "JOSEPH",
+			"Confidence": 98.8564453125
+		}
+	},
+	{
+		"Type": {
+			"Text": "LAST_NAME"
+		},
+		"ValueDetection": {
+			"Text": "CORR",
+			"Confidence": 99.16838073730469
+		}
+	},
+	{
+		"Type": {
+			"Text": "MIDDLE_NAME"
+		},
+		"ValueDetection": {
+			"Text": "RUDOLPH",
+			"Confidence": 99.16458129882812
+		}
+	},
+	{
+		"Type": {
+			"Text": "SUFFIX"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.68804931640625
+		}
+	},
+	{
+		"Type": {
+			"Text": "CITY_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "LONGMONT",
+			"Confidence": 99.23767852783203
+		}
+	},
+	{
+		"Type": {
+			"Text": "ZIP_CODE_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "80501",
+			"Confidence": 99.1512451171875
+		}
+	},
+	{
+		"Type": {
+			"Text": "STATE_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "CO",
+			"Confidence": 99.4332504272461
+		}
+	},
+	{
+		"Type": {
+			"Text": "STATE_NAME"
+		},
+		"ValueDetection": {
+			"Text": "COLORADO",
+			"Confidence": 98.46739959716797
+		}
+	},
+	{
+		"Type": {
+			"Text": "DOCUMENT_NUMBER"
+		},
+		"ValueDetection": {
+			"Text": "083291060",
+			"Confidence": 89.22816467285156
+		}
+	},
+	{
+		"Type": {
+			"Text": "EXPIRATION_DATE"
+		},
+		"ValueDetection": {
+			"Text": "12/08/2026",
+			"NormalizedValue": {
+				"Value": "2026-12-08T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.2210922241211
+		}
+	},
+	{
+		"Type": {
+			"Text": "DATE_OF_BIRTH"
+		},
+		"ValueDetection": {
+			"Text": "12/08/1979",
+			"NormalizedValue": {
+				"Value": "1979-12-08T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.29595947265625
+		}
+	},
+	{
+		"Type": {
+			"Text": "DATE_OF_ISSUE"
+		},
+		"ValueDetection": {
+			"Text": "09/01/2021",
+			"NormalizedValue": {
+				"Value": "2021-09-01T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.78866577148438
+		}
+	},
+	{
+		"Type": {
+			"Text": "ID_TYPE"
+		},
+		"ValueDetection": {
+			"Text": "DRIVER LICENSE FRONT",
+			"Confidence": 98.92781066894531
+		}
+	},
+	{
+		"Type": {
+			"Text": "ENDORSEMENTS"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.7188720703125
+		}
+	},
+	{
+		"Type": {
+			"Text": "VETERAN"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.6731185913086
+		}
+	},
+	{
+		"Type": {
+			"Text": "RESTRICTIONS"
+		},
+		"ValueDetection": {
+			"Text": "NONE",
+			"Confidence": 99.3896713256836
+		}
+	},
+	{
+		"Type": {
+			"Text": "CLASS"
+		},
+		"ValueDetection": {
+			"Text": "R",
+			"Confidence": 90.72577667236328
+		}
+	},
+	{
+		"Type": {
+			"Text": "ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "721 JUDSON ST",
+			"Confidence": 97.81009674072266
+		}
+	},
+	{
+		"Type": {
+			"Text": "COUNTY"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.6280746459961
+		}
+	},
+	{
+		"Type": {
+			"Text": "PLACE_OF_BIRTH"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.68937683105469
+		}
+	}
+]

@@ -1,0 +1,194 @@
+[
+	{
+		"Type": {
+			"Text": "FIRST_NAME"
+		},
+		"ValueDetection": {
+			"Text": "JOHN",
+			"Confidence": 99.07564544677734
+		}
+	},
+	{
+		"Type": {
+			"Text": "LAST_NAME"
+		},
+		"ValueDetection": {
+			"Text": "PUBLIC",
+			"Confidence": 96.97297668457031
+		}
+	},
+	{
+		"Type": {
+			"Text": "MIDDLE_NAME"
+		},
+		"ValueDetection": {
+			"Text": "Q",
+			"Confidence": 97.97329711914062
+		}
+	},
+	{
+		"Type": {
+			"Text": "SUFFIX"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.60343170166016
+		}
+	},
+	{
+		"Type": {
+			"Text": "CITY_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "LANSING",
+			"Confidence": 98.34083557128906
+		}
+	},
+	{
+		"Type": {
+			"Text": "ZIP_CODE_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "489180000",
+			"Confidence": 98.69680786132812
+		}
+	},
+	{
+		"Type": {
+			"Text": "STATE_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "MI",
+			"Confidence": 98.93144226074219
+		}
+	},
+	{
+		"Type": {
+			"Text": "STATE_NAME"
+		},
+		"ValueDetection": {
+			"Text": "MICHIGAN",
+			"Confidence": 99.38633728027344
+		}
+	},
+	{
+		"Type": {
+			"Text": "DOCUMENT_NUMBER"
+		},
+		"ValueDetection": {
+			"Text": "P800000224322",
+			"Confidence": 59.642616271972656
+		}
+	},
+	{
+		"Type": {
+			"Text": "EXPIRATION_DATE"
+		},
+		"ValueDetection": {
+			"Text": "05-01-2022",
+			"NormalizedValue": {
+				"Value": "2022-05-01T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.09878540039062
+		}
+	},
+	{
+		"Type": {
+			"Text": "DATE_OF_BIRTH"
+		},
+		"ValueDetection": {
+			"Text": "05-01-1984",
+			"NormalizedValue": {
+				"Value": "1984-05-01T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.27882385253906
+		}
+	},
+	{
+		"Type": {
+			"Text": "DATE_OF_ISSUE"
+		},
+		"ValueDetection": {
+			"Text": "04-01-2018",
+			"NormalizedValue": {
+				"Value": "2018-04-01T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.92272186279297
+		}
+	},
+	{
+		"Type": {
+			"Text": "ID_TYPE"
+		},
+		"ValueDetection": {
+			"Text": "DRIVER LICENSE FRONT",
+			"Confidence": 99.03341674804688
+		}
+	},
+	{
+		"Type": {
+			"Text": "ENDORSEMENTS"
+		},
+		"ValueDetection": {
+			"Text": "NONE",
+			"Confidence": 99.09713745117188
+		}
+	},
+	{
+		"Type": {
+			"Text": "VETERAN"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.54408264160156
+		}
+	},
+	{
+		"Type": {
+			"Text": "RESTRICTIONS"
+		},
+		"ValueDetection": {
+			"Text": "NONE",
+			"Confidence": 99.38072204589844
+		}
+	},
+	{
+		"Type": {
+			"Text": "CLASS"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.43689727783203
+		}
+	},
+	{
+		"Type": {
+			"Text": "ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "123 NORTH STATE ST.",
+			"Confidence": 96.00041961669922
+		}
+	},
+	{
+		"Type": {
+			"Text": "COUNTY"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.54625701904297
+		}
+	},
+	{
+		"Type": {
+			"Text": "PLACE_OF_BIRTH"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.61644744873047
+		}
+	}
+]

@@ -1,0 +1,172 @@
+[
+    {
+      "TEXT": "STEMCO",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.08629608154297
+    },
+    {
+      "TEXT": "CON",
+      "LABEL": "LINE",
+      "CONFIDENCE": 12.206644058227539
+    },
+    {
+      "TEXT": "U.S.A",
+      "LABEL": "LINE",
+      "CONFIDENCE": 69.68029022216797
+    },
+    {
+      "TEXT": "STEMCO",
+      "LABEL": "LINE",
+      "CONFIDENCE": 39.53478240966797
+    },
+    {
+      "TEXT": "HUBODOMETER",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.88741302490234
+    },
+    {
+      "TEXT": "650-0610",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.68175506591797
+    },
+    {
+      "TEXT": "DR",
+      "LABEL": "LINE",
+      "CONFIDENCE": 67.25725555419922
+    },
+    {
+      "TEXT": "ANSWAG",
+      "LABEL": "LINE",
+      "CONFIDENCE": 12.000104904174805
+    },
+    {
+      "TEXT": "0228778",
+      "LABEL": "LINE",
+      "CONFIDENCE": 37.17957305908203
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "LINE",
+      "CONFIDENCE": 71.32349395751953
+    },
+    {
+      "TEXT": "0507210883",
+      "LABEL": "LINE",
+      "CONFIDENCE": 17.61090850830078
+    },
+    {
+      "TEXT": "I",
+      "LABEL": "LINE",
+      "CONFIDENCE": 42.58828353881836
+    },
+    {
+      "TEXT": "I",
+      "LABEL": "LINE",
+      "CONFIDENCE": 25.42336654663086
+    },
+    {
+      "TEXT": "I",
+      "LABEL": "LINE",
+      "CONFIDENCE": 32.97761535644531
+    },
+    {
+      "TEXT": "get",
+      "LABEL": "LINE",
+      "CONFIDENCE": 12.818521499633789
+    },
+    {
+      "TEXT": "of",
+      "LABEL": "LINE",
+      "CONFIDENCE": 22.625394821166992
+    },
+    {
+      "TEXT": "NON",
+      "LABEL": "LINE",
+      "CONFIDENCE": 25.0396671295166
+    },
+    {
+      "TEXT": "STEMCO",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.08629608154297
+    },
+    {
+      "TEXT": "CON",
+      "LABEL": "WORD",
+      "CONFIDENCE": 12.206644058227539
+    },
+    {
+      "TEXT": "U.S.A",
+      "LABEL": "WORD",
+      "CONFIDENCE": 69.68029022216797
+    },
+    {
+      "TEXT": "STEMCO",
+      "LABEL": "WORD",
+      "CONFIDENCE": 39.53478240966797
+    },
+    {
+      "TEXT": "HUBODOMETER",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.88741302490234
+    },
+    {
+      "TEXT": "650-0610",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.68175506591797
+    },
+    {
+      "TEXT": "DR",
+      "LABEL": "WORD",
+      "CONFIDENCE": 67.25725555419922
+    },
+    {
+      "TEXT": "ANSWAG",
+      "LABEL": "WORD",
+      "CONFIDENCE": 12.000104904174805
+    },
+    {
+      "TEXT": "0228778",
+      "LABEL": "WORD",
+      "CONFIDENCE": 37.17957305908203
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "WORD",
+      "CONFIDENCE": 71.32349395751953
+    },
+    {
+      "TEXT": "0507210883",
+      "LABEL": "WORD",
+      "CONFIDENCE": 17.61090850830078
+    },
+    {
+      "TEXT": "I",
+      "LABEL": "WORD",
+      "CONFIDENCE": 42.58828353881836
+    },
+    {
+      "TEXT": "I",
+      "LABEL": "WORD",
+      "CONFIDENCE": 25.42336654663086
+    },
+    {
+      "TEXT": "I",
+      "LABEL": "WORD",
+      "CONFIDENCE": 32.97761535644531
+    },
+    {
+      "TEXT": "get",
+      "LABEL": "WORD",
+      "CONFIDENCE": 12.818521499633789
+    },
+    {
+      "TEXT": "of",
+      "LABEL": "WORD",
+      "CONFIDENCE": 22.625394821166992
+    },
+    {
+      "TEXT": "NON",
+      "LABEL": "WORD",
+      "CONFIDENCE": 25.0396671295166
+    }
+  ]

@@ -1,0 +1,127 @@
+[
+    {
+      "TEXT": "THINNER STEMCO® LONGVIEW TEXAS U.S.A",
+      "LABEL": "LINE",
+      "CONFIDENCE": 88.95997619628906
+    },
+    {
+      "TEXT": "HUBODOMETER STEMCO",
+      "LABEL": "LINE",
+      "CONFIDENCE": 91.162841796875
+    },
+    {
+      "TEXT": "650-0601",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.72085571289062
+    },
+    {
+      "TEXT": "PAINT",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.15364837646484
+    },
+    {
+      "TEXT": "212814",
+      "LABEL": "LINE",
+      "CONFIDENCE": 94.56453704833984
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.09326934814453
+    },
+    {
+      "TEXT": "OR",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.84381103515625
+    },
+    {
+      "TEXT": "0103190669",
+      "LABEL": "LINE",
+      "CONFIDENCE": 60.2985725402832
+    },
+    {
+      "TEXT": "JON O",
+      "LABEL": "LINE",
+      "CONFIDENCE": 24.088258743286133
+    },
+    {
+      "TEXT": "aso",
+      "LABEL": "LINE",
+      "CONFIDENCE": 45.44378662109375
+    },
+    {
+      "TEXT": "THINNER",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.46503448486328
+    },
+    {
+      "TEXT": "STEMCO®",
+      "LABEL": "WORD",
+      "CONFIDENCE": 89.35297393798828
+    },
+    {
+      "TEXT": "LONGVIEW",
+      "LABEL": "WORD",
+      "CONFIDENCE": 68.3647689819336
+    },
+    {
+      "TEXT": "TEXAS",
+      "LABEL": "WORD",
+      "CONFIDENCE": 96.86986541748047
+    },
+    {
+      "TEXT": "U.S.A",
+      "LABEL": "WORD",
+      "CONFIDENCE": 91.74724578857422
+    },
+    {
+      "TEXT": "HUBODOMETER",
+      "LABEL": "WORD",
+      "CONFIDENCE": 84.06099700927734
+    },
+    {
+      "TEXT": "STEMCO",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.26468658447266
+    },
+    {
+      "TEXT": "650-0601",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.72085571289062
+    },
+    {
+      "TEXT": "PAINT",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.15364837646484
+    },
+    {
+      "TEXT": "212814",
+      "LABEL": "WORD",
+      "CONFIDENCE": 94.56453704833984
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.09326934814453
+    },
+    {
+      "TEXT": "OR",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.84381103515625
+    },
+    {
+      "TEXT": "0103190669",
+      "LABEL": "WORD",
+      "CONFIDENCE": 60.2985725402832
+    },
+    {
+      "TEXT": "JON O",
+      "LABEL": "WORD",
+      "CONFIDENCE": 24.088258743286133
+    },
+    {
+      "TEXT": "aso",
+      "LABEL": "WORD",
+      "CONFIDENCE": 45.44378662109375
+    }
+  ]

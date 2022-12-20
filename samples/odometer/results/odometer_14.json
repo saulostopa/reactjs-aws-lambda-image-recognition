@@ -1,0 +1,337 @@
+[
+    {
+      "TEXT": "2:29 PM",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.55442810058594
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.4830551147461
+    },
+    {
+      "TEXT": "45",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.6203384399414
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.5469741821289
+    },
+    {
+      "TEXT": "10",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.35486602783203
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.68048095703125
+    },
+    {
+      "TEXT": "55",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.48390197753906
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.3575210571289
+    },
+    {
+      "TEXT": "40 . 60' F BO",
+      "LABEL": "LINE",
+      "CONFIDENCE": 55.54946517944336
+    },
+    {
+      "TEXT": "100 65",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.21438598632812
+    },
+    {
+      "TEXT": "a",
+      "LABEL": "LINE",
+      "CONFIDENCE": 77.23673248291016
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.67327880859375
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.6667709350586
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "LINE",
+      "CONFIDENCE": 100
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.72052001953125
+    },
+    {
+      "TEXT": "12075",
+      "LABEL": "LINE",
+      "CONFIDENCE": 93.21946716308594
+    },
+    {
+      "TEXT": "x100",
+      "LABEL": "LINE",
+      "CONFIDENCE": 84.8247299194336
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.06053161621094
+    },
+    {
+      "TEXT": "kmith",
+      "LABEL": "LINE",
+      "CONFIDENCE": 46.35892105102539
+    },
+    {
+      "TEXT": "RPM",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.80249786376953
+    },
+    {
+      "TEXT": "O",
+      "LABEL": "LINE",
+      "CONFIDENCE": 47.34644317626953
+    },
+    {
+      "TEXT": "MPH",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.52503204345703
+    },
+    {
+      "TEXT": "O",
+      "LABEL": "LINE",
+      "CONFIDENCE": 48.93672180175781
+    },
+    {
+      "TEXT": "30",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.46546173095703
+    },
+    {
+      "TEXT": "85",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.69942474365234
+    },
+    {
+      "TEXT": "4 122.8 HRS",
+      "LABEL": "LINE",
+      "CONFIDENCE": 55.51526641845703
+    },
+    {
+      "TEXT": "125858",
+      "LABEL": "LINE",
+      "CONFIDENCE": 95.76029968261719
+    },
+    {
+      "TEXT": "71 T",
+      "LABEL": "LINE",
+      "CONFIDENCE": 46.544708251953125
+    },
+    {
+      "TEXT": "235.1 ml",
+      "LABEL": "LINE",
+      "CONFIDENCE": 96.34099578857422
+    },
+    {
+      "TEXT": "2:29",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.51964569091797
+    },
+    {
+      "TEXT": "PM",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.58922576904297
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.4830551147461
+    },
+    {
+      "TEXT": "45",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.6203384399414
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.5469741821289
+    },
+    {
+      "TEXT": "10",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.35486602783203
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.68048095703125
+    },
+    {
+      "TEXT": "55",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.48390197753906
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.3575210571289
+    },
+    {
+      "TEXT": "40",
+      "LABEL": "WORD",
+      "CONFIDENCE": 76.9833984375
+    },
+    {
+      "TEXT": ".",
+      "LABEL": "WORD",
+      "CONFIDENCE": 26.108774185180664
+    },
+    {
+      "TEXT": "60'",
+      "LABEL": "WORD",
+      "CONFIDENCE": 90.02193450927734
+    },
+    {
+      "TEXT": "F",
+      "LABEL": "WORD",
+      "CONFIDENCE": 39.72867202758789
+    },
+    {
+      "TEXT": "BO",
+      "LABEL": "WORD",
+      "CONFIDENCE": 44.90456771850586
+    },
+    {
+      "TEXT": "100",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.32781982421875
+    },
+    {
+      "TEXT": "65",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.10095977783203
+    },
+    {
+      "TEXT": "a",
+      "LABEL": "WORD",
+      "CONFIDENCE": 77.23673248291016
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.67327880859375
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.6667709350586
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "WORD",
+      "CONFIDENCE": 100
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.72052001953125
+    },
+    {
+      "TEXT": "12075",
+      "LABEL": "WORD",
+      "CONFIDENCE": 93.21946716308594
+    },
+    {
+      "TEXT": "x100",
+      "LABEL": "WORD",
+      "CONFIDENCE": 84.8247299194336
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.06053161621094
+    },
+    {
+      "TEXT": "kmith",
+      "LABEL": "WORD",
+      "CONFIDENCE": 46.35892105102539
+    },
+    {
+      "TEXT": "RPM",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.80249786376953
+    },
+    {
+      "TEXT": "O",
+      "LABEL": "WORD",
+      "CONFIDENCE": 47.34644317626953
+    },
+    {
+      "TEXT": "MPH",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.52503204345703
+    },
+    {
+      "TEXT": "O",
+      "LABEL": "WORD",
+      "CONFIDENCE": 48.93672180175781
+    },
+    {
+      "TEXT": "30",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.46546173095703
+    },
+    {
+      "TEXT": "85",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.69942474365234
+    },
+    {
+      "TEXT": "4",
+      "LABEL": "WORD",
+      "CONFIDENCE": 69.21968078613281
+    },
+    {
+      "TEXT": "122.8 HRS",
+      "LABEL": "WORD",
+      "CONFIDENCE": 41.810848236083984
+    },
+    {
+      "TEXT": "125858",
+      "LABEL": "WORD",
+      "CONFIDENCE": 95.76029968261719
+    },
+    {
+      "TEXT": "71",
+      "LABEL": "WORD",
+      "CONFIDENCE": 74.94396209716797
+    },
+    {
+      "TEXT": "T",
+      "LABEL": "WORD",
+      "CONFIDENCE": 18.14545440673828
+    },
+    {
+      "TEXT": "235.1",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.82466125488281
+    },
+    {
+      "TEXT": "ml",
+      "LABEL": "WORD",
+      "CONFIDENCE": 94.85733032226562
+    }
+  ]

@@ -1,0 +1,44 @@
+{
+	"processing_time": 89.289,
+	"results": [
+		{
+			"box": {
+				"xmin": 249,
+				"ymin": 666,
+				"xmax": 297,
+				"ymax": 691
+			},
+			"plate": "78aktn",
+			"region": {
+				"code": "us-fl",
+				"score": 0.923
+			},
+			"score": 0.891,
+			"candidates": [
+				{
+					"score": 0.891,
+					"plate": "78aktn"
+				},
+				{
+					"score": 0.756,
+					"plate": "7baktn"
+				}
+			],
+			"dscore": 0.99,
+			"vehicle": {
+				"score": 0.5,
+				"type": "Van",
+				"box": {
+					"xmin": 41,
+					"ymin": 91,
+					"xmax": 521,
+					"ymax": 780
+				}
+			}
+		}
+	],
+	"filename": "1902_3PTNU_6ab13e6f-2c21-4382-9b44-294cf3daf8b1.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T19:02:08.694514Z"
+}

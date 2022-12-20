@@ -1,0 +1,194 @@
+[
+	{
+		"Type": {
+			"Text": "FIRST_NAME"
+		},
+		"ValueDetection": {
+			"Text": "CONNOR",
+			"Confidence": 98.27801513671875
+		}
+	},
+	{
+		"Type": {
+			"Text": "LAST_NAME"
+		},
+		"ValueDetection": {
+			"Text": "SAMPLE",
+			"Confidence": 99.29842376708984
+		}
+	},
+	{
+		"Type": {
+			"Text": "MIDDLE_NAME"
+		},
+		"ValueDetection": {
+			"Text": "M",
+			"Confidence": 99.3362045288086
+		}
+	},
+	{
+		"Type": {
+			"Text": "SUFFIX"
+		},
+		"ValueDetection": {
+			"Text": "JR",
+			"Confidence": 98.76659393310547
+		}
+	},
+	{
+		"Type": {
+			"Text": "CITY_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "JACKSON",
+			"Confidence": 98.92977142333984
+		}
+	},
+	{
+		"Type": {
+			"Text": "ZIP_CODE_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "392161234",
+			"Confidence": 98.81454467773438
+		}
+	},
+	{
+		"Type": {
+			"Text": "STATE_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "MS",
+			"Confidence": 98.91716003417969
+		}
+	},
+	{
+		"Type": {
+			"Text": "STATE_NAME"
+		},
+		"ValueDetection": {
+			"Text": "MISSISSIPPI",
+			"Confidence": 98.72496795654297
+		}
+	},
+	{
+		"Type": {
+			"Text": "DOCUMENT_NUMBER"
+		},
+		"ValueDetection": {
+			"Text": "123456789",
+			"Confidence": 98.49453735351562
+		}
+	},
+	{
+		"Type": {
+			"Text": "EXPIRATION_DATE"
+		},
+		"ValueDetection": {
+			"Text": "01/12/2024",
+			"NormalizedValue": {
+				"Value": "2024-01-12T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.95121002197266
+		}
+	},
+	{
+		"Type": {
+			"Text": "DATE_OF_BIRTH"
+		},
+		"ValueDetection": {
+			"Text": "01/12/1967",
+			"NormalizedValue": {
+				"Value": "1967-01-12T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.33482360839844
+		}
+	},
+	{
+		"Type": {
+			"Text": "DATE_OF_ISSUE"
+		},
+		"ValueDetection": {
+			"Text": "01/10/2016",
+			"NormalizedValue": {
+				"Value": "2016-01-10T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.88392639160156
+		}
+	},
+	{
+		"Type": {
+			"Text": "ID_TYPE"
+		},
+		"ValueDetection": {
+			"Text": "DRIVER LICENSE FRONT",
+			"Confidence": 98.96554565429688
+		}
+	},
+	{
+		"Type": {
+			"Text": "ENDORSEMENTS"
+		},
+		"ValueDetection": {
+			"Text": "NONE",
+			"Confidence": 99.37928009033203
+		}
+	},
+	{
+		"Type": {
+			"Text": "VETERAN"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.60948944091797
+		}
+	},
+	{
+		"Type": {
+			"Text": "RESTRICTIONS"
+		},
+		"ValueDetection": {
+			"Text": "NONE",
+			"Confidence": 99.31734466552734
+		}
+	},
+	{
+		"Type": {
+			"Text": "CLASS"
+		},
+		"ValueDetection": {
+			"Text": "C",
+			"Confidence": 99.1383285522461
+		}
+	},
+	{
+		"Type": {
+			"Text": "ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "123 MAIN ST",
+			"Confidence": 98.21277618408203
+		}
+	},
+	{
+		"Type": {
+			"Text": "COUNTY"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.6146240234375
+		}
+	},
+	{
+		"Type": {
+			"Text": "PLACE_OF_BIRTH"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.68538665771484
+		}
+	}
+]

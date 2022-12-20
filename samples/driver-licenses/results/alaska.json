@@ -1,0 +1,194 @@
+[
+	{
+		"Type": {
+			"Text": "FIRST_NAME"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 5.253061294555664
+		}
+	},
+	{
+		"Type": {
+			"Text": "LAST_NAME"
+		},
+		"ValueDetection": {
+			"Text": "ALASKA",
+			"Confidence": 98.53862762451172
+		}
+	},
+	{
+		"Type": {
+			"Text": "MIDDLE_NAME"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 26.74880599975586
+		}
+	},
+	{
+		"Type": {
+			"Text": "SUFFIX"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.53780364990234
+		}
+	},
+	{
+		"Type": {
+			"Text": "CITY_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "ANCHORAGE",
+			"Confidence": 99.4764633178711
+		}
+	},
+	{
+		"Type": {
+			"Text": "ZIP_CODE_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "99501",
+			"Confidence": 99.46427917480469
+		}
+	},
+	{
+		"Type": {
+			"Text": "STATE_IN_ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "AK",
+			"Confidence": 99.29850006103516
+		}
+	},
+	{
+		"Type": {
+			"Text": "STATE_NAME"
+		},
+		"ValueDetection": {
+			"Text": "ALASKA",
+			"Confidence": 98.69526672363281
+		}
+	},
+	{
+		"Type": {
+			"Text": "DOCUMENT_NUMBER"
+		},
+		"ValueDetection": {
+			"Text": "7158184",
+			"Confidence": 98.84164428710938
+		}
+	},
+	{
+		"Type": {
+			"Text": "EXPIRATION_DATE"
+		},
+		"ValueDetection": {
+			"Text": "07/11/2022",
+			"NormalizedValue": {
+				"Value": "2022-07-11T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.16018676757812
+		}
+	},
+	{
+		"Type": {
+			"Text": "DATE_OF_BIRTH"
+		},
+		"ValueDetection": {
+			"Text": "07/11/1988",
+			"NormalizedValue": {
+				"Value": "1988-07-11T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.09102630615234
+		}
+	},
+	{
+		"Type": {
+			"Text": "DATE_OF_ISSUE"
+		},
+		"ValueDetection": {
+			"Text": "08/03/2018",
+			"NormalizedValue": {
+				"Value": "2018-08-03T00:00:00",
+				"ValueType": "Date"
+			},
+			"Confidence": 98.62571716308594
+		}
+	},
+	{
+		"Type": {
+			"Text": "ID_TYPE"
+		},
+		"ValueDetection": {
+			"Text": "DRIVER LICENSE FRONT",
+			"Confidence": 99.0802001953125
+		}
+	},
+	{
+		"Type": {
+			"Text": "ENDORSEMENTS"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.74214935302734
+		}
+	},
+	{
+		"Type": {
+			"Text": "VETERAN"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.6195297241211
+		}
+	},
+	{
+		"Type": {
+			"Text": "RESTRICTIONS"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.71057891845703
+		}
+	},
+	{
+		"Type": {
+			"Text": "CLASS"
+		},
+		"ValueDetection": {
+			"Text": "D",
+			"Confidence": 99.09135437011719
+		}
+	},
+	{
+		"Type": {
+			"Text": "ADDRESS"
+		},
+		"ValueDetection": {
+			"Text": "123 SAMPLE STREET",
+			"Confidence": 98.10818481445312
+		}
+	},
+	{
+		"Type": {
+			"Text": "COUNTY"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.6247329711914
+		}
+	},
+	{
+		"Type": {
+			"Text": "PLACE_OF_BIRTH"
+		},
+		"ValueDetection": {
+			"Text": "",
+			"Confidence": 99.62983703613281
+		}
+	}
+]

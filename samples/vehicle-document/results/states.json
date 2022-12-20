@@ -1,0 +1,202 @@
+[
+    {
+        "full_name": "Alabama",
+        "short_name": "AL"
+    },
+    {
+        "full_name":  "Alaska",
+        "short_name": "AK"
+    },
+    {
+        "full_name":  "Arizona",
+        "short_name": "AZ"
+    },
+    {
+        "full_name":  "Arkansas",
+        "short_name": "AR"
+    },
+    {
+        "full_name":  "California",
+        "short_name": "CA"
+    },
+    {
+        "full_name":  "Colorado",
+        "short_name": "CO"
+    },
+    {
+        "full_name":  "Connecticut",
+        "short_name": "CT"
+    },
+    {
+        "full_name":  "Delaware",
+        "short_name": "DE"
+    },
+    {
+        "full_name":  "Florida",
+        "short_name": "FL"
+    },
+    {
+        "full_name":  "Georgia",
+        "short_name": "GA"
+    },
+    {
+        "full_name":  "Hawaii",
+        "short_name": "HI"
+    },
+    {
+        "full_name":  "Idaho",
+        "short_name": "ID"
+    },
+    {
+        "full_name":  "Illinois",
+        "short_name": "IL"
+    },
+    {
+        "full_name":  "Indiana",
+        "short_name": "IN"
+    },
+    {
+        "full_name":  "Iowa",
+        "short_name": "IA"
+    },
+    {
+        "full_name":  "Kansas",
+        "short_name": "KS"
+    },
+    {
+        "full_name":  "Kentucky",
+        "short_name": "KY"
+    },
+    {
+        "full_name":  "Louisiana",
+        "short_name": "LA"
+    },
+    {
+        "full_name":  "Maine",
+        "short_name": "ME"
+    },
+    {
+        "full_name":  "Maryland",
+        "short_name": "MD"
+    },
+    {
+        "full_name":  "Massachusetts",
+        "short_name": "MA"
+    },
+    {
+        "full_name":  "Michigan",
+        "short_name": "MI"
+    },
+    {
+        "full_name":  "Minnesota",
+        "short_name": "MN"
+    },
+    {
+        "full_name":  "Mississippi",
+        "short_name": "MS"
+    },
+    {
+        "full_name":  "Missouri",
+        "short_name": "MO"
+    },
+    {
+        "full_name":  "Montana",
+        "short_name": "MT"
+    },
+    {
+        "full_name":  "Nebraska",
+        "short_name": "NE"
+    },
+    {
+        "full_name":  "Nevada",
+        "short_name": "NV"
+    },
+    {
+        "full_name":  "New Hampshire",
+        "short_name": "NH"
+    },
+    {
+        "full_name":  "New Jersey",
+        "short_name": "NJ"
+    },
+    {
+        "full_name":  "New Mexico",
+        "short_name": "NM"
+    },
+    {
+        "full_name":  "New York",
+        "short_name": "NY"
+    },
+    {
+        "full_name":  "North Carolina",
+        "short_name": "NC"
+    },
+    {
+        "full_name":  "North Dakota",
+        "short_name": "ND"
+    },
+    {
+        "full_name":  "Ohio",
+        "short_name": "OH"
+    },
+    {
+        "full_name":  "Oklahoma",
+        "short_name": "OK"
+    },
+    {
+        "full_name":  "Oregon",
+        "short_name": "OR"
+    },
+    {
+        "full_name":  "Pennsylvania",
+        "short_name": "PA"
+    },
+    {
+        "full_name":  "Rhode Island",
+        "short_name": "RI"
+    },
+    {
+        "full_name":  "South Carolina",
+        "short_name": "SC"
+    },
+    {
+        "full_name":  "South Dakota",
+        "short_name": "SD"
+    },
+    {
+        "full_name":  "Tennessee",
+        "short_name": "TN"
+    },
+    {
+        "full_name":  "Texas",
+        "short_name": "TX"
+    },
+    {
+        "full_name":  "Utah",
+        "short_name": "UT"
+    },
+    {
+        "full_name":  "Vermont",
+        "short_name": "VT"
+    },
+    {
+        "full_name":  "Virginia",
+        "short_name": "VA"
+    },
+    {
+        "full_name":  "Washington",
+        "short_name": "WA"
+    },
+    {
+        "full_name":  "West Virginia",
+        "short_name": "WV"
+    },
+    {
+        "full_name":  "Wisconsin",
+        "short_name": "WI"
+    },
+    {
+        "full_name":  "Wyoming",
+        "short_name": "WY"
+    }
+]

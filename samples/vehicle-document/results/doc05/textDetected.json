@@ -1,0 +1,347 @@
+[
+	{
+		"TEXT": "STATE",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.59121704101562
+	},
+	{
+		"TEXT": "OF",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.65338897705078
+	},
+	{
+		"TEXT": "GEORGIA",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.38359069824219
+	},
+	{
+		"TEXT": "MOTOR",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.47486877441406
+	},
+	{
+		"TEXT": "VEHICLE",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.51022338867188
+	},
+	{
+		"TEXT": "REGISTRATION",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.14094543457031
+	},
+	{
+		"TEXT": "1F65F5KN0M0A00342-2021",
+		"LABEL": "WORD",
+		"CONFIDENCE": 89.16773223876953
+	},
+	{
+		"TEXT": "FORD",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.3194351196289
+	},
+	{
+		"TEXT": "F59",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.6651840209961
+	},
+	{
+		"TEXT": "TK",
+		"LABEL": "WORD",
+		"CONFIDENCE": 87.61979675292969
+	},
+	{
+		"TEXT": "Tag",
+		"LABEL": "WORD",
+		"CONFIDENCE": 100
+	},
+	{
+		"TEXT": "Number:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.61653137207031
+	},
+	{
+		"TEXT": "YCY670",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.24949645996094
+	},
+	{
+		"TEXT": "Expires:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.90437316894531
+	},
+	{
+		"TEXT": "30-Nov-2022_",
+		"LABEL": "WORD",
+		"CONFIDENCE": 98.90632629394531
+	},
+	{
+		"TEXT": "Title",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.79056549072266
+	},
+	{
+		"TEXT": "Number:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.6973648071289
+	},
+	{
+		"TEXT": "770106246130002",
+		"LABEL": "WORD",
+		"CONFIDENCE": 98.9257583618164
+	},
+	{
+		"TEXT": "Tag",
+		"LABEL": "WORD",
+		"CONFIDENCE": 100
+	},
+	{
+		"TEXT": "Fee:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 100
+	},
+	{
+		"TEXT": "38.00",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.91268157958984
+	},
+	{
+		"TEXT": "County:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.59609985351562
+	},
+	{
+		"TEXT": "DeKalb",
+		"LABEL": "WORD",
+		"CONFIDENCE": 95.53387451171875
+	},
+	{
+		"TEXT": "Fuel:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.87873077392578
+	},
+	{
+		"TEXT": "Gasoline",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.7680892944336
+	},
+	{
+		"TEXT": "District:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.75021362304688
+	},
+	{
+		"TEXT": "24",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.8688735961914
+	},
+	{
+		"TEXT": "Farm",
+		"LABEL": "WORD",
+		"CONFIDENCE": 100
+	},
+	{
+		"TEXT": "Veh?",
+		"LABEL": "WORD",
+		"CONFIDENCE": 100
+	},
+	{
+		"TEXT": "No",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.92912292480469
+	},
+	{
+		"TEXT": "GVW:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.55664825439453
+	},
+	{
+		"TEXT": "19500",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.65953826904297
+	},
+	{
+		"TEXT": "Equip",
+		"LABEL": "WORD",
+		"CONFIDENCE": 100
+	},
+	{
+		"TEXT": "No:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.83251953125
+	},
+	{
+		"TEXT": "Color:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.61862182617188
+	},
+	{
+		"TEXT": "WHITE",
+		"LABEL": "WORD",
+		"CONFIDENCE": 100
+	},
+	{
+		"TEXT": "Classification:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.20121002197266
+	},
+	{
+		"TEXT": "JN - Plate",
+		"LABEL": "WORD",
+		"CONFIDENCE": 82.05766296386719
+	},
+	{
+		"TEXT": "Standard",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.27362060546875
+	},
+	{
+		"TEXT": "Commercial",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.67134857177734
+	},
+	{
+		"TEXT": "Truck",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.9847183227539
+	},
+	{
+		"TEXT": "18001-26000",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.22455596923828
+	},
+	{
+		"TEXT": "Insurance",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.45565795898438
+	},
+	{
+		"TEXT": "Status:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.9610595703125
+	},
+	{
+		"TEXT": "Valid",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.67176818847656
+	},
+	{
+		"TEXT": "Insurance",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.26233673095703
+	},
+	{
+		"TEXT": "Coverage",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.69734191894531
+	},
+	{
+		"TEXT": "Customer",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.57672882080078
+	},
+	{
+		"TEXT": "1",
+		"LABEL": "WORD",
+		"CONFIDENCE": 98.16128540039062
+	},
+	{
+		"TEXT": "No:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.9916000366211
+	},
+	{
+		"TEXT": "100537464832",
+		"LABEL": "WORD",
+		"CONFIDENCE": 98.97357177734375
+	},
+	{
+		"TEXT": "Customer",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.28214263916016
+	},
+	{
+		"TEXT": "2",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.89115905761719
+	},
+	{
+		"TEXT": "No:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.74787139892578
+	},
+	{
+		"TEXT": "Authentic",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.7212142944336
+	},
+	{
+		"TEXT": "LEASED",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.72150421142578
+	},
+	{
+		"TEXT": "Historical",
+		"LABEL": "WORD",
+		"CONFIDENCE": 100
+	},
+	{
+		"TEXT": "Plate:",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.33209228515625
+	},
+	{
+		"TEXT": "WOLFPACK",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.28673553466797
+	},
+	{
+		"TEXT": "DELIVERY",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.54914093017578
+	},
+	{
+		"TEXT": "INC",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.7082290649414
+	},
+	{
+		"TEXT": "3400",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.7100601196289
+	},
+	{
+		"TEXT": "MALONE",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.87594604492188
+	},
+	{
+		"TEXT": "DR",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.96224975585938
+	},
+	{
+		"TEXT": "UNIT",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.84319305419922
+	},
+	{
+		"TEXT": "202",
+		"LABEL": "WORD",
+		"CONFIDENCE": 100
+	},
+	{
+		"TEXT": "CHAMBLEE",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.21077728271484
+	},
+	{
+		"TEXT": "GA",
+		"LABEL": "WORD",
+		"CONFIDENCE": 99.66974639892578
+	},
+	{
+		"TEXT": "30341-2710",
+		"LABEL": "WORD",
+		"CONFIDENCE": 98.70006561279297
+	}
+]

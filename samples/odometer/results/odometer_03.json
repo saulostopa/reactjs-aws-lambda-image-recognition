@@ -1,0 +1,302 @@
+[
+    {
+      "TEXT": "EXHAUST FILTER",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.94661712646484
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.77424621582031
+    },
+    {
+      "TEXT": "35 45",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.67788696289062
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.85066986083984
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.82003784179688
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.23165130615234
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.68819427490234
+    },
+    {
+      "TEXT": "60-80",
+      "LABEL": "LINE",
+      "CONFIDENCE": 96.87626647949219
+    },
+    {
+      "TEXT": "30",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.62330627441406
+    },
+    {
+      "TEXT": "10",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.59400939941406
+    },
+    {
+      "TEXT": "40",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.86297607421875
+    },
+    {
+      "TEXT": "100",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.16780853271484
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.43302154541016
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.02290344238281
+    },
+    {
+      "TEXT": "120",
+      "LABEL": "LINE",
+      "CONFIDENCE": 60.779605865478516
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.36441802978516
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.75892639160156
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.68148803710938
+    },
+    {
+      "TEXT": "140",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.24443054199219
+    },
+    {
+      "TEXT": "40",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.67314910888672
+    },
+    {
+      "TEXT": "O",
+      "LABEL": "LINE",
+      "CONFIDENCE": 62.885986328125
+    },
+    {
+      "TEXT": "8",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.68541717529297
+    },
+    {
+      "TEXT": "KM/H",
+      "LABEL": "LINE",
+      "CONFIDENCE": 81.4805679321289
+    },
+    {
+      "TEXT": "X100",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.5146484375
+    },
+    {
+      "TEXT": "MPH",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.1673355102539
+    },
+    {
+      "TEXT": "RPM",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.43778228759766
+    },
+    {
+      "TEXT": "RN0421",
+      "LABEL": "LINE",
+      "CONFIDENCE": 57.9420280456543
+    },
+    {
+      "TEXT": "208801",
+      "LABEL": "LINE",
+      "CONFIDENCE": 95.07551574707031
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.4788589477539
+    },
+    {
+      "TEXT": "EXHAUST",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.82378387451172
+    },
+    {
+      "TEXT": "FILTER",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.06945037841797
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.77424621582031
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.64876556396484
+    },
+    {
+      "TEXT": "45",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.70701599121094
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.85066986083984
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.82003784179688
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.23165130615234
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.68819427490234
+    },
+    {
+      "TEXT": "60-80",
+      "LABEL": "WORD",
+      "CONFIDENCE": 96.87626647949219
+    },
+    {
+      "TEXT": "30",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.62330627441406
+    },
+    {
+      "TEXT": "10",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.59400939941406
+    },
+    {
+      "TEXT": "40",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.86297607421875
+    },
+    {
+      "TEXT": "100",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.16780853271484
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.43302154541016
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.02290344238281
+    },
+    {
+      "TEXT": "120",
+      "LABEL": "WORD",
+      "CONFIDENCE": 60.779605865478516
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.36441802978516
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.75892639160156
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.68148803710938
+    },
+    {
+      "TEXT": "140",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.24443054199219
+    },
+    {
+      "TEXT": "40",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.67314910888672
+    },
+    {
+      "TEXT": "O",
+      "LABEL": "WORD",
+      "CONFIDENCE": 62.885986328125
+    },
+    {
+      "TEXT": "8",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.68541717529297
+    },
+    {
+      "TEXT": "KM/H",
+      "LABEL": "WORD",
+      "CONFIDENCE": 81.4805679321289
+    },
+    {
+      "TEXT": "X100",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.5146484375
+    },
+    {
+      "TEXT": "MPH",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.1673355102539
+    },
+    {
+      "TEXT": "RPM",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.43778228759766
+    },
+    {
+      "TEXT": "RN0421",
+      "LABEL": "WORD",
+      "CONFIDENCE": 57.9420280456543
+    },
+    {
+      "TEXT": "208801",
+      "LABEL": "WORD",
+      "CONFIDENCE": 95.07551574707031
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.4788589477539
+    }
+  ]

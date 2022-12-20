@@ -1,0 +1,68 @@
+{
+	"processing_time": 37.339,
+	"results": [
+		{
+			"box": {
+				"xmin": 172,
+				"ymin": 346,
+				"xmax": 210,
+				"ymax": 359
+			},
+			"plate": "9659921",
+			"region": {
+				"code": "us-ca",
+				"score": 0.374
+			},
+			"score": 0.754,
+			"candidates": [
+				{
+					"score": 0.754,
+					"plate": "9659921"
+				},
+				{
+					"score": 0.713,
+					"plate": "9659920"
+				},
+				{
+					"score": 0.707,
+					"plate": "9f59921"
+				},
+				{
+					"score": 0.667,
+					"plate": "9659521"
+				},
+				{
+					"score": 0.666,
+					"plate": "9f59920"
+				},
+				{
+					"score": 0.627,
+					"plate": "9659520"
+				},
+				{
+					"score": 0.621,
+					"plate": "9f59521"
+				},
+				{
+					"score": 0.58,
+					"plate": "9f59520"
+				}
+			],
+			"dscore": 0.839,
+			"vehicle": {
+				"score": 0.666,
+				"type": "Big Truck",
+				"box": {
+					"xmin": 54,
+					"ymin": 81,
+					"xmax": 320,
+					"ymax": 374
+				}
+			}
+		}
+	],
+	"filename": "1909_OJn17_dc12be29-f667-4658-a368-f61c8d875f2c.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T19:09:55.211770Z"
+}

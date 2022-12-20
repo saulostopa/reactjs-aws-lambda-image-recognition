@@ -1,0 +1,122 @@
+[
+    {
+      "TEXT": "STEMCO",
+      "LABEL": "LINE",
+      "CONFIDENCE": 93.496337890625
+    },
+    {
+      "TEXT": "CONCIVIE",
+      "LABEL": "LINE",
+      "CONFIDENCE": 9.444231033325195
+    },
+    {
+      "TEXT": "DO",
+      "LABEL": "LINE",
+      "CONFIDENCE": 94.2087631225586
+    },
+    {
+      "TEXT": "STEMCO",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.09877014160156
+    },
+    {
+      "TEXT": "SPEMCO",
+      "LABEL": "LINE",
+      "CONFIDENCE": 18.951692581176758
+    },
+    {
+      "TEXT": "HUBODOMETER",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.20169830322266
+    },
+    {
+      "TEXT": "650-0601",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.81473541259766
+    },
+    {
+      "TEXT": "123RF",
+      "LABEL": "LINE",
+      "CONFIDENCE": 15.919947624206543
+    },
+    {
+      "TEXT": "P105500",
+      "LABEL": "LINE",
+      "CONFIDENCE": 28.835466384887695
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.21753692626953
+    },
+    {
+      "TEXT": "1",
+      "LABEL": "LINE",
+      "CONFIDENCE": 10.454986572265625
+    },
+    {
+      "TEXT": "80",
+      "LABEL": "LINE",
+      "CONFIDENCE": 34.62983703613281
+    },
+    {
+      "TEXT": "STEMCO",
+      "LABEL": "WORD",
+      "CONFIDENCE": 93.496337890625
+    },
+    {
+      "TEXT": "CONCIVIE",
+      "LABEL": "WORD",
+      "CONFIDENCE": 9.444231033325195
+    },
+    {
+      "TEXT": "DO",
+      "LABEL": "WORD",
+      "CONFIDENCE": 94.2087631225586
+    },
+    {
+      "TEXT": "STEMCO",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.09877014160156
+    },
+    {
+      "TEXT": "SPEMCO",
+      "LABEL": "WORD",
+      "CONFIDENCE": 18.951692581176758
+    },
+    {
+      "TEXT": "HUBODOMETER",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.20169830322266
+    },
+    {
+      "TEXT": "650-0601",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.81473541259766
+    },
+    {
+      "TEXT": "123RF",
+      "LABEL": "WORD",
+      "CONFIDENCE": 15.919947624206543
+    },
+    {
+      "TEXT": "P105500",
+      "LABEL": "WORD",
+      "CONFIDENCE": 28.835466384887695
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.21753692626953
+    },
+    {
+      "TEXT": "1",
+      "LABEL": "WORD",
+      "CONFIDENCE": 10.454986572265625
+    },
+    {
+      "TEXT": "80",
+      "LABEL": "WORD",
+      "CONFIDENCE": 34.62983703613281
+    }
+  ]

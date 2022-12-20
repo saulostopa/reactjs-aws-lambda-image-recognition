@@ -1,0 +1,44 @@
+{
+	"processing_time": 141.707,
+	"results": [
+		{
+			"box": {
+				"xmin": 110,
+				"ymin": 777,
+				"xmax": 185,
+				"ymax": 817
+			},
+			"plate": "xre053",
+			"region": {
+				"code": "us-ga",
+				"score": 0.607
+			},
+			"score": 0.9,
+			"candidates": [
+				{
+					"score": 0.9,
+					"plate": "xre053"
+				},
+				{
+					"score": 0.899,
+					"plate": "xreo53"
+				}
+			],
+			"dscore": 0.718,
+			"vehicle": {
+				"score": 0.593,
+				"type": "Big Truck",
+				"box": {
+					"xmin": 27,
+					"ymin": 12,
+					"xmax": 763,
+					"ymax": 872
+				}
+			}
+		}
+	],
+	"filename": "1903_IsrlC_7c2eba13-5a8d-4385-962f-2f6c73092a74.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T19:03:13.545842Z"
+}

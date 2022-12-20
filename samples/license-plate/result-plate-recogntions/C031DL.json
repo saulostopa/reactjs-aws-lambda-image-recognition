@@ -1,0 +1,52 @@
+{
+	"processing_time": 99.358,
+	"results": [
+		{
+			"box": {
+				"xmin": 283,
+				"ymin": 837,
+				"xmax": 388,
+				"ymax": 891
+			},
+			"plate": "c031dl",
+			"region": {
+				"code": "us-ga",
+				"score": 0.7
+			},
+			"score": 0.905,
+			"candidates": [
+				{
+					"score": 0.905,
+					"plate": "c031dl"
+				},
+				{
+					"score": 0.904,
+					"plate": "co31dl"
+				},
+				{
+					"score": 0.76,
+					"plate": "c03idl"
+				},
+				{
+					"score": 0.758,
+					"plate": "co3idl"
+				}
+			],
+			"dscore": 0.672,
+			"vehicle": {
+				"score": 0.487,
+				"type": "Big Truck",
+				"box": {
+					"xmin": 31,
+					"ymin": 38,
+					"xmax": 746,
+					"ymax": 915
+				}
+			}
+		}
+	],
+	"filename": "1904_jXGt7_746bbc4f-9f4a-4043-a3c0-9c748296c270.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T19:04:13.448488Z"
+}

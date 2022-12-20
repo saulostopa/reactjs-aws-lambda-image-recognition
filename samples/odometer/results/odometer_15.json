@@ -1,0 +1,147 @@
+[
+    {
+      "TEXT": "SOLVENT STEMCO® LONGVIEW, PAINT TEXAS U.S.A OR THINNER",
+      "LABEL": "LINE",
+      "CONFIDENCE": 84.02436065673828
+    },
+    {
+      "TEXT": "USE.",
+      "LABEL": "LINE",
+      "CONFIDENCE": 83.30392456054688
+    },
+    {
+      "TEXT": "STEMCO®",
+      "LABEL": "LINE",
+      "CONFIDENCE": 95.5113525390625
+    },
+    {
+      "TEXT": "foom",
+      "LABEL": "LINE",
+      "CONFIDENCE": 10.32160758972168
+    },
+    {
+      "TEXT": "HUBODOMETER®",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.20154571533203
+    },
+    {
+      "TEXT": "NOT",
+      "LABEL": "LINE",
+      "CONFIDENCE": 90.91405487060547
+    },
+    {
+      "TEXT": "650-0598",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.87965393066406
+    },
+    {
+      "TEXT": "DO",
+      "LABEL": "LINE",
+      "CONFIDENCE": 48.8968505859375
+    },
+    {
+      "TEXT": "206304",
+      "LABEL": "LINE",
+      "CONFIDENCE": 94.53260803222656
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.75487518310547
+    },
+    {
+      "TEXT": "SIEMCO",
+      "LABEL": "LINE",
+      "CONFIDENCE": 39.4327507019043
+    },
+    {
+      "TEXT": "SOLVENT",
+      "LABEL": "WORD",
+      "CONFIDENCE": 46.201480865478516
+    },
+    {
+      "TEXT": "STEMCO®",
+      "LABEL": "WORD",
+      "CONFIDENCE": 79.12540435791016
+    },
+    {
+      "TEXT": "LONGVIEW,",
+      "LABEL": "WORD",
+      "CONFIDENCE": 65.13135528564453
+    },
+    {
+      "TEXT": "PAINT",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.95535278320312
+    },
+    {
+      "TEXT": "TEXAS",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.74667358398438
+    },
+    {
+      "TEXT": "U.S.A",
+      "LABEL": "WORD",
+      "CONFIDENCE": 92.01410675048828
+    },
+    {
+      "TEXT": "OR",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.85348510742188
+    },
+    {
+      "TEXT": "THINNER",
+      "LABEL": "WORD",
+      "CONFIDENCE": 96.16699981689453
+    },
+    {
+      "TEXT": "USE.",
+      "LABEL": "WORD",
+      "CONFIDENCE": 83.30392456054688
+    },
+    {
+      "TEXT": "STEMCO®",
+      "LABEL": "WORD",
+      "CONFIDENCE": 95.5113525390625
+    },
+    {
+      "TEXT": "foom",
+      "LABEL": "WORD",
+      "CONFIDENCE": 10.32160758972168
+    },
+    {
+      "TEXT": "HUBODOMETER®",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.20154571533203
+    },
+    {
+      "TEXT": "NOT",
+      "LABEL": "WORD",
+      "CONFIDENCE": 90.91405487060547
+    },
+    {
+      "TEXT": "650-0598",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.87965393066406
+    },
+    {
+      "TEXT": "DO",
+      "LABEL": "WORD",
+      "CONFIDENCE": 48.8968505859375
+    },
+    {
+      "TEXT": "206304",
+      "LABEL": "WORD",
+      "CONFIDENCE": 94.53260803222656
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.75487518310547
+    },
+    {
+      "TEXT": "SIEMCO",
+      "LABEL": "WORD",
+      "CONFIDENCE": 39.4327507019043
+    }
+  ]

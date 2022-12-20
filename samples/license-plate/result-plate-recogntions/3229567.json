@@ -1,0 +1,40 @@
+{
+	"processing_time": 76.251,
+	"results": [
+		{
+			"box": {
+				"xmin": 83,
+				"ymin": 792,
+				"xmax": 169,
+				"ymax": 839
+			},
+			"plate": "3229567",
+			"region": {
+				"code": "us-in",
+				"score": 0.705
+			},
+			"score": 0.894,
+			"candidates": [
+				{
+					"score": 0.894,
+					"plate": "3229567"
+				}
+			],
+			"dscore": 0.769,
+			"vehicle": {
+				"score": 0.481,
+				"type": "Big Truck",
+				"box": {
+					"xmin": 0,
+					"ymin": 211,
+					"xmax": 574,
+					"ymax": 887
+				}
+			}
+		}
+	],
+	"filename": "1905_iasIk_4947d436-5d58-46e9-9696-eec326a1e905.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T19:05:00.057476Z"
+}

@@ -1,0 +1,437 @@
+[
+    {
+      "TEXT": "Speed",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.67039489746094
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.30284881591797
+    },
+    {
+      "TEXT": "10",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.62529754638672
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.4669189453125
+    },
+    {
+      "TEXT": "òs 25",
+      "LABEL": "LINE",
+      "CONFIDENCE": 86.68450164794922
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.21885681152344
+    },
+    {
+      "TEXT": "0mph",
+      "LABEL": "LINE",
+      "CONFIDENCE": 94.83375549316406
+    },
+    {
+      "TEXT": "15 30.",
+      "LABEL": "LINE",
+      "CONFIDENCE": 78.88285064697266
+    },
+    {
+      "TEXT": "5 10-",
+      "LABEL": "LINE",
+      "CONFIDENCE": 94.21381378173828
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.67485809326172
+    },
+    {
+      "TEXT": "58 F",
+      "LABEL": "LINE",
+      "CONFIDENCE": 82.43688201904297
+    },
+    {
+      "TEXT": "508,358 mi",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.02823638916016
+    },
+    {
+      "TEXT": "RPM",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.89592742919922
+    },
+    {
+      "TEXT": "x100",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.27674865722656
+    },
+    {
+      "TEXT": "100",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.13005065917969
+    },
+    {
+      "TEXT": "1/2",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.1603775024414
+    },
+    {
+      "TEXT": "N",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.58106231689453
+    },
+    {
+      "TEXT": "E",
+      "LABEL": "LINE",
+      "CONFIDENCE": 92.0389633178711
+    },
+    {
+      "TEXT": "50",
+      "LABEL": "LINE",
+      "CONFIDENCE": 67.67127227783203
+    },
+    {
+      "TEXT": "50",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.95343017578125
+    },
+    {
+      "TEXT": "150",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.35226440429688
+    },
+    {
+      "TEXT": "PSI",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.23717498779297
+    },
+    {
+      "TEXT": "SI",
+      "LABEL": "LINE",
+      "CONFIDENCE": 86.19084930419922
+    },
+    {
+      "TEXT": "10:31 am",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.45652770996094
+    },
+    {
+      "TEXT": "S",
+      "LABEL": "LINE",
+      "CONFIDENCE": 90.28910064697266
+    },
+    {
+      "TEXT": "P",
+      "LABEL": "LINE",
+      "CONFIDENCE": 90.45994567871094
+    },
+    {
+      "TEXT": "0",
+      "LABEL": "LINE",
+      "CONFIDENCE": 36.174888610839844
+    },
+    {
+      "TEXT": "F",
+      "LABEL": "LINE",
+      "CONFIDENCE": 72.7937240600586
+    },
+    {
+      "TEXT": "DEF",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.8344955444336
+    },
+    {
+      "TEXT": "FUEL",
+      "LABEL": "LINE",
+      "CONFIDENCE": 100
+    },
+    {
+      "TEXT": "AIR",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.9791488647461
+    },
+    {
+      "TEXT": "100.",
+      "LABEL": "LINE",
+      "CONFIDENCE": 66.24298858642578
+    },
+    {
+      "TEXT": "OIL",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.45684814453125
+    },
+    {
+      "TEXT": "PARK",
+      "LABEL": "LINE",
+      "CONFIDENCE": 59.41411209106445
+    },
+    {
+      "TEXT": "ULTRA LOW Pomoto Property of Premier Truck Group of Odessa",
+      "LABEL": "LINE",
+      "CONFIDENCE": 90.97553253173828
+    },
+    {
+      "TEXT": "DIESEL FUEL",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.97531127929688
+    },
+    {
+      "TEXT": "Speed",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.67039489746094
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.30284881591797
+    },
+    {
+      "TEXT": "10",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.62529754638672
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.4669189453125
+    },
+    {
+      "TEXT": "òs",
+      "LABEL": "WORD",
+      "CONFIDENCE": 74.09064483642578
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.27835083007812
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.21885681152344
+    },
+    {
+      "TEXT": "0mph",
+      "LABEL": "WORD",
+      "CONFIDENCE": 94.83375549316406
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.1513442993164
+    },
+    {
+      "TEXT": "30.",
+      "LABEL": "WORD",
+      "CONFIDENCE": 59.614349365234375
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.02848815917969
+    },
+    {
+      "TEXT": "10-",
+      "LABEL": "WORD",
+      "CONFIDENCE": 90.39913177490234
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.67485809326172
+    },
+    {
+      "TEXT": "58 F",
+      "LABEL": "WORD",
+      "CONFIDENCE": 82.43688201904297
+    },
+    {
+      "TEXT": "508,358",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.30475616455078
+    },
+    {
+      "TEXT": "mi",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.75171661376953
+    },
+    {
+      "TEXT": "RPM",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.89592742919922
+    },
+    {
+      "TEXT": "x100",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.27674865722656
+    },
+    {
+      "TEXT": "100",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.13005065917969
+    },
+    {
+      "TEXT": "1/2",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.1603775024414
+    },
+    {
+      "TEXT": "N",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.58106231689453
+    },
+    {
+      "TEXT": "E",
+      "LABEL": "WORD",
+      "CONFIDENCE": 92.0389633178711
+    },
+    {
+      "TEXT": "50",
+      "LABEL": "WORD",
+      "CONFIDENCE": 67.67127227783203
+    },
+    {
+      "TEXT": "50",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.95343017578125
+    },
+    {
+      "TEXT": "150",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.35226440429688
+    },
+    {
+      "TEXT": "PSI",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.23717498779297
+    },
+    {
+      "TEXT": "SI",
+      "LABEL": "WORD",
+      "CONFIDENCE": 86.19084930419922
+    },
+    {
+      "TEXT": "10:31",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.22509765625
+    },
+    {
+      "TEXT": "am",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.68795013427734
+    },
+    {
+      "TEXT": "S",
+      "LABEL": "WORD",
+      "CONFIDENCE": 90.28910064697266
+    },
+    {
+      "TEXT": "P",
+      "LABEL": "WORD",
+      "CONFIDENCE": 90.45994567871094
+    },
+    {
+      "TEXT": "0",
+      "LABEL": "WORD",
+      "CONFIDENCE": 36.174888610839844
+    },
+    {
+      "TEXT": "F",
+      "LABEL": "WORD",
+      "CONFIDENCE": 72.7937240600586
+    },
+    {
+      "TEXT": "DEF",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.8344955444336
+    },
+    {
+      "TEXT": "FUEL",
+      "LABEL": "WORD",
+      "CONFIDENCE": 100
+    },
+    {
+      "TEXT": "AIR",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.9791488647461
+    },
+    {
+      "TEXT": "100.",
+      "LABEL": "WORD",
+      "CONFIDENCE": 66.24298858642578
+    },
+    {
+      "TEXT": "OIL",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.45684814453125
+    },
+    {
+      "TEXT": "PARK",
+      "LABEL": "WORD",
+      "CONFIDENCE": 59.41411209106445
+    },
+    {
+      "TEXT": "ULTRA",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.73912811279297
+    },
+    {
+      "TEXT": "LOW",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.96590423583984
+    },
+    {
+      "TEXT": "Pomoto",
+      "LABEL": "WORD",
+      "CONFIDENCE": 15.53948974609375
+    },
+    {
+      "TEXT": "Property",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.32491302490234
+    },
+    {
+      "TEXT": "of",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.45535278320312
+    },
+    {
+      "TEXT": "Premier",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.64869689941406
+    },
+    {
+      "TEXT": "Truck",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.92271423339844
+    },
+    {
+      "TEXT": "Group",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.3845443725586
+    },
+    {
+      "TEXT": "of",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.52783203125
+    },
+    {
+      "TEXT": "Odessa",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.24676513671875
+    },
+    {
+      "TEXT": "DIESEL",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.20332336425781
+    },
+    {
+      "TEXT": "FUEL",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.74730682373047
+    }
+  ]

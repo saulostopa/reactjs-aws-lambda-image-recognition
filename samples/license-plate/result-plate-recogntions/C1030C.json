@@ -1,0 +1,68 @@
+{
+	"processing_time": 132.491,
+	"results": [
+		{
+			"box": {
+				"xmin": 474,
+				"ymin": 519,
+				"xmax": 559,
+				"ymax": 568
+			},
+			"plate": "c1030c",
+			"region": {
+				"code": "us-ct",
+				"score": 0.238
+			},
+			"score": 0.892,
+			"candidates": [
+				{
+					"score": 0.892,
+					"plate": "c1030c"
+				},
+				{
+					"score": 0.89,
+					"plate": "c103oc"
+				},
+				{
+					"score": 0.89,
+					"plate": "c1o30c"
+				},
+				{
+					"score": 0.889,
+					"plate": "c1o3oc"
+				},
+				{
+					"score": 0.756,
+					"plate": "ci030c"
+				},
+				{
+					"score": 0.755,
+					"plate": "ci03oc"
+				},
+				{
+					"score": 0.755,
+					"plate": "cio30c"
+				},
+				{
+					"score": 0.753,
+					"plate": "cio3oc"
+				}
+			],
+			"dscore": 0.814,
+			"vehicle": {
+				"score": 0.621,
+				"type": "Big Truck",
+				"box": {
+					"xmin": 100,
+					"ymin": 122,
+					"xmax": 731,
+					"ymax": 821
+				}
+			}
+		}
+	],
+	"filename": "1913_Vgqtc_f758e6a9-7b88-4339-a42c-880de43a4aa1.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T19:13:27.366147Z"
+}

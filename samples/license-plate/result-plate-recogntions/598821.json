@@ -1,0 +1,68 @@
+{
+	"processing_time": 66.766,
+	"results": [
+		{
+			"box": {
+				"xmin": 158,
+				"ymin": 728,
+				"xmax": 227,
+				"ymax": 760
+			},
+			"plate": "598821st",
+			"region": {
+				"code": "us-il",
+				"score": 0.552
+			},
+			"score": 0.833,
+			"candidates": [
+				{
+					"score": 0.833,
+					"plate": "598821st"
+				},
+				{
+					"score": 0.727,
+					"plate": "59b821st"
+				},
+				{
+					"score": 0.726,
+					"plate": "59882ist"
+				},
+				{
+					"score": 0.726,
+					"plate": "598b21st"
+				},
+				{
+					"score": 0.62,
+					"plate": "59b82ist"
+				},
+				{
+					"score": 0.62,
+					"plate": "59bb21st"
+				},
+				{
+					"score": 0.619,
+					"plate": "598b2ist"
+				},
+				{
+					"score": 0.513,
+					"plate": "59bb2ist"
+				}
+			],
+			"dscore": 0.732,
+			"vehicle": {
+				"score": 0.577,
+				"type": "Big Truck",
+				"box": {
+					"xmin": 72,
+					"ymin": 9,
+					"xmax": 715,
+					"ymax": 832
+				}
+			}
+		}
+	],
+	"filename": "1912_jSrmV_f9a51275-8352-41fd-a462-53a3ebe61902.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T19:12:44.475171Z"
+}

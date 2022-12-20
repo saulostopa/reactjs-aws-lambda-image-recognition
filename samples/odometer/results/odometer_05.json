@@ -1,0 +1,182 @@
+[
+    {
+      "TEXT": "35 45",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.64307403564453
+    },
+    {
+      "TEXT": "55",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.99225616455078
+    },
+    {
+      "TEXT": "25. 60 -80",
+      "LABEL": "LINE",
+      "CONFIDENCE": 77.21813201904297
+    },
+    {
+      "TEXT": "40",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.56971740722656
+    },
+    {
+      "TEXT": "100 63",
+      "LABEL": "LINE",
+      "CONFIDENCE": 84.91984558105469
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.12309265136719
+    },
+    {
+      "TEXT": "120",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.27017974853516
+    },
+    {
+      "TEXT": "75",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.61557006835938
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.24555969238281
+    },
+    {
+      "TEXT": "140",
+      "LABEL": "LINE",
+      "CONFIDENCE": 92.68143463134766
+    },
+    {
+      "TEXT": "85",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.62328338623047
+    },
+    {
+      "TEXT": "KM/H",
+      "LABEL": "LINE",
+      "CONFIDENCE": 96.11619567871094
+    },
+    {
+      "TEXT": "MPH",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.3212661743164
+    },
+    {
+      "TEXT": "174625",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.82327270507812
+    },
+    {
+      "TEXT": "D1",
+      "LABEL": "LINE",
+      "CONFIDENCE": 100
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.44026947021484
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.71753692626953
+    },
+    {
+      "TEXT": "45",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.56861877441406
+    },
+    {
+      "TEXT": "55",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.99225616455078
+    },
+    {
+      "TEXT": "25.",
+      "LABEL": "WORD",
+      "CONFIDENCE": 93.50382995605469
+    },
+    {
+      "TEXT": "60",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.10621643066406
+    },
+    {
+      "TEXT": "-80",
+      "LABEL": "WORD",
+      "CONFIDENCE": 39.04435729980469
+    },
+    {
+      "TEXT": "40",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.56971740722656
+    },
+    {
+      "TEXT": "100",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.25926208496094
+    },
+    {
+      "TEXT": "63",
+      "LABEL": "WORD",
+      "CONFIDENCE": 72.5804214477539
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.12309265136719
+    },
+    {
+      "TEXT": "120",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.27017974853516
+    },
+    {
+      "TEXT": "75",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.61557006835938
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.24555969238281
+    },
+    {
+      "TEXT": "140",
+      "LABEL": "WORD",
+      "CONFIDENCE": 92.68143463134766
+    },
+    {
+      "TEXT": "85",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.62328338623047
+    },
+    {
+      "TEXT": "KM/H",
+      "LABEL": "WORD",
+      "CONFIDENCE": 96.11619567871094
+    },
+    {
+      "TEXT": "MPH",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.3212661743164
+    },
+    {
+      "TEXT": "174625",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.82327270507812
+    },
+    {
+      "TEXT": "D1",
+      "LABEL": "WORD",
+      "CONFIDENCE": 100
+    },
+    {
+      "TEXT": "MILES",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.44026947021484
+    }
+  ]

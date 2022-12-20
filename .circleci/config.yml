@@ -1,0 +1,39 @@
+version: 2
+jobs:
+  develop:
+    docker:
+      - image: cimg/python:3.9.6-node
+    environment:
+      BUCKET: webapp-driver-license-recognition
+    steps:
+      - checkout
+      - setup_remote_docker
+      - restore_cache:
+          keys:
+            - v1-dependencies-{{ checksum "package.json" }}
+            - v1-dependencies-
+      - run:
+          name: 'Install packages'
+          command: npm install
+      - save_cache:
+          key: v1-dependencies-{{ checksum "package.json" }}
+          paths:
+            - node_modules
+      - run:
+          name: 'Build project'
+          command: npm build
+      - run:
+          name: 'Install aws cli'
+          command: sudo apt update && sudo apt install --no-install-recommends awscli
+      - run:
+          name: 'Deploy code to S3'
+          command: aws s3 sync ./build s3://${BUCKET} --delete --acl public-read
+
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      - develop:
+          filters:
+            branches:
+              only: develop

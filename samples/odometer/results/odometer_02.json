@@ -1,0 +1,182 @@
+[
+    {
+      "TEXT": "65527.8 MI",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.15453338623047
+    },
+    {
+      "TEXT": "45",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.88811492919922
+    },
+    {
+      "TEXT": "20 25",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.87541198730469
+    },
+    {
+      "TEXT": "55",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.76073455810547
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "LINE",
+      "CONFIDENCE": 100
+    },
+    {
+      "TEXT": "30",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.99835968017578
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.93110656738281
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "LINE",
+      "CONFIDENCE": 72.01051330566406
+    },
+    {
+      "TEXT": "70",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.66170501708984
+    },
+    {
+      "TEXT": "65",
+      "LABEL": "LINE",
+      "CONFIDENCE": 43.16131591796875
+    },
+    {
+      "TEXT": "90",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.25216674804688
+    },
+    {
+      "TEXT": "50",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.64276123046875
+    },
+    {
+      "TEXT": "10",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.87510681152344
+    },
+    {
+      "TEXT": "110",
+      "LABEL": "LINE",
+      "CONFIDENCE": 94.83586883544922
+    },
+    {
+      "TEXT": "30",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.49827575683594
+    },
+    {
+      "TEXT": "75",
+      "LABEL": "LINE",
+      "CONFIDENCE": 87.39260864257812
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.4879379272461
+    },
+    {
+      "TEXT": "65527.8",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.59620666503906
+    },
+    {
+      "TEXT": "MI",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.7128677368164
+    },
+    {
+      "TEXT": "45",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.88811492919922
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.86871337890625
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.88211059570312
+    },
+    {
+      "TEXT": "55",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.76073455810547
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "WORD",
+      "CONFIDENCE": 100
+    },
+    {
+      "TEXT": "30",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.99835968017578
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.93110656738281
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "WORD",
+      "CONFIDENCE": 72.01051330566406
+    },
+    {
+      "TEXT": "70",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.66170501708984
+    },
+    {
+      "TEXT": "65",
+      "LABEL": "WORD",
+      "CONFIDENCE": 43.16131591796875
+    },
+    {
+      "TEXT": "90",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.25216674804688
+    },
+    {
+      "TEXT": "50",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.64276123046875
+    },
+    {
+      "TEXT": "10",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.87510681152344
+    },
+    {
+      "TEXT": "110",
+      "LABEL": "WORD",
+      "CONFIDENCE": 94.83586883544922
+    },
+    {
+      "TEXT": "30",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.49827575683594
+    },
+    {
+      "TEXT": "75",
+      "LABEL": "WORD",
+      "CONFIDENCE": 87.39260864257812
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.4879379272461
+    }
+  ]

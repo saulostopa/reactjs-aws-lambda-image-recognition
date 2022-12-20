@@ -1,0 +1,52 @@
+{
+	"processing_time": 135.455,
+	"results": [
+		{
+			"box": {
+				"xmin": 76,
+				"ymin": 613,
+				"xmax": 233,
+				"ymax": 693
+			},
+			"plate": "8l40522",
+			"region": {
+				"code": "us-ca",
+				"score": 0.929
+			},
+			"score": 0.897,
+			"candidates": [
+				{
+					"score": 0.897,
+					"plate": "8l40522"
+				},
+				{
+					"score": 0.895,
+					"plate": "8l4o522"
+				},
+				{
+					"score": 0.774,
+					"plate": "bl40522"
+				},
+				{
+					"score": 0.773,
+					"plate": "bl4o522"
+				}
+			],
+			"dscore": 0.711,
+			"vehicle": {
+				"score": 0.548,
+				"type": "SUV",
+				"box": {
+					"xmin": 9,
+					"ymin": 111,
+					"xmax": 485,
+					"ymax": 710
+				}
+			}
+		}
+	],
+	"filename": "1901_JOfBX_4b8107b7-abb0-42a3-86fc-27e1d28a182f.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T19:01:13.942099Z"
+}

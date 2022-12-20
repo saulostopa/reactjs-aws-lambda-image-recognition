@@ -1,0 +1,40 @@
+{
+	"processing_time": 93.429,
+	"results": [
+		{
+			"box": {
+				"xmin": 300,
+				"ymin": 357,
+				"xmax": 452,
+				"ymax": 420
+			},
+			"plate": "pwm9796",
+			"region": {
+				"code": "us-oh",
+				"score": 0.906
+			},
+			"score": 0.892,
+			"candidates": [
+				{
+					"score": 0.892,
+					"plate": "pwm9796"
+				}
+			],
+			"dscore": 0.87,
+			"vehicle": {
+				"score": 0.476,
+				"type": "Big Truck",
+				"box": {
+					"xmin": 10,
+					"ymin": 5,
+					"xmax": 768,
+					"ymax": 556
+				}
+			}
+		}
+	],
+	"filename": "1906_lF7LZ_8402bb5a-851e-40b4-8e84-72a22c6bfbfa.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T19:06:38.855409Z"
+}

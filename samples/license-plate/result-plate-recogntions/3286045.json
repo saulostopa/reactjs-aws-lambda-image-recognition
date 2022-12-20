@@ -1,0 +1,52 @@
+{
+	"processing_time": 45.442,
+	"results": [
+		{
+			"box": {
+				"xmin": 260,
+				"ymin": 405,
+				"xmax": 313,
+				"ymax": 432
+			},
+			"plate": "3286045",
+			"region": {
+				"code": "us-in",
+				"score": 0.802
+			},
+			"score": 0.901,
+			"candidates": [
+				{
+					"score": 0.901,
+					"plate": "3286045"
+				},
+				{
+					"score": 0.9,
+					"plate": "3286o45"
+				},
+				{
+					"score": 0.779,
+					"plate": "32b6045"
+				},
+				{
+					"score": 0.778,
+					"plate": "32b6o45"
+				}
+			],
+			"dscore": 0.827,
+			"vehicle": {
+				"score": 0.628,
+				"type": "Big Truck",
+				"box": {
+					"xmin": 68,
+					"ymin": 10,
+					"xmax": 532,
+					"ymax": 451
+				}
+			}
+		}
+	],
+	"filename": "1909_VjYD7_c6e39ed9-1137-48b4-acb2-f247b2c6f12d.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T19:09:26.497223Z"
+}

@@ -1,0 +1,577 @@
+[
+    {
+      "TEXT": "Home",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.69217681884766
+    },
+    {
+      "TEXT": "45",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.70236206054688
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.66242218017578
+    },
+    {
+      "TEXT": "55",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.47936248779297
+    },
+    {
+      "TEXT": "Trip mpg: 8.5",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.7226333618164
+    },
+    {
+      "TEXT": "70",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.06353759765625
+    },
+    {
+      "TEXT": "25 òs",
+      "LABEL": "LINE",
+      "CONFIDENCE": 87.34687042236328
+    },
+    {
+      "TEXT": "90",
+      "LABEL": "LINE",
+      "CONFIDENCE": 92.86682891845703
+    },
+    {
+      "TEXT": "65",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.37149810791016
+    },
+    {
+      "TEXT": "5 10 15",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.11890411376953
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.76643371582031
+    },
+    {
+      "TEXT": "1530.",
+      "LABEL": "LINE",
+      "CONFIDENCE": 53.55539321899414
+    },
+    {
+      "TEXT": ".110",
+      "LABEL": "LINE",
+      "CONFIDENCE": 42.10576248168945
+    },
+    {
+      "TEXT": ":",
+      "LABEL": "LINE",
+      "CONFIDENCE": 77.17203521728516
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "LINE",
+      "CONFIDENCE": 96.9745864868164
+    },
+    {
+      "TEXT": "75",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.31672668457031
+    },
+    {
+      "TEXT": "10",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.44719696044922
+    },
+    {
+      "TEXT": "-130",
+      "LABEL": "LINE",
+      "CONFIDENCE": 96.16455078125
+    },
+    {
+      "TEXT": "5 10-",
+      "LABEL": "LINE",
+      "CONFIDENCE": 93.68385314941406
+    },
+    {
+      "TEXT": "62 F",
+      "LABEL": "LINE",
+      "CONFIDENCE": 89.50155639648438
+    },
+    {
+      "TEXT": "85-",
+      "LABEL": "LINE",
+      "CONFIDENCE": 95.1279067993164
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.9503173828125
+    },
+    {
+      "TEXT": "528,756 mi",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.92149353027344
+    },
+    {
+      "TEXT": "12.4 V",
+      "LABEL": "LINE",
+      "CONFIDENCE": 94.1131820678711
+    },
+    {
+      "TEXT": "MPH",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.2541732788086
+    },
+    {
+      "TEXT": "RPM",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.39788818359375
+    },
+    {
+      "TEXT": "km/h",
+      "LABEL": "LINE",
+      "CONFIDENCE": 53.84327697753906
+    },
+    {
+      "TEXT": "N",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.79086303710938
+    },
+    {
+      "TEXT": "100",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.39971923828125
+    },
+    {
+      "TEXT": "x100",
+      "LABEL": "LINE",
+      "CONFIDENCE": 91.4607925415039
+    },
+    {
+      "TEXT": "v2",
+      "LABEL": "LINE",
+      "CONFIDENCE": 49.288841247558594
+    },
+    {
+      "TEXT": "50",
+      "LABEL": "LINE",
+      "CONFIDENCE": 83.37896728515625
+    },
+    {
+      "TEXT": "200",
+      "LABEL": "LINE",
+      "CONFIDENCE": 61.400569915771484
+    },
+    {
+      "TEXT": "mph",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.59541320800781
+    },
+    {
+      "TEXT": "E",
+      "LABEL": "LINE",
+      "CONFIDENCE": 92.92676544189453
+    },
+    {
+      "TEXT": "PS",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.02101135253906
+    },
+    {
+      "TEXT": "150",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.64962005615234
+    },
+    {
+      "TEXT": "50",
+      "LABEL": "LINE",
+      "CONFIDENCE": 96.60968017578125
+    },
+    {
+      "TEXT": "economy",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.46995544433594
+    },
+    {
+      "TEXT": "150",
+      "LABEL": "LINE",
+      "CONFIDENCE": 92.03157043457031
+    },
+    {
+      "TEXT": "250",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.80840301513672
+    },
+    {
+      "TEXT": "°F",
+      "LABEL": "LINE",
+      "CONFIDENCE": 79.0084228515625
+    },
+    {
+      "TEXT": "PSI",
+      "LABEL": "LINE",
+      "CONFIDENCE": 97.18704223632812
+    },
+    {
+      "TEXT": "06:09 pm",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.75746154785156
+    },
+    {
+      "TEXT": "F",
+      "LABEL": "LINE",
+      "CONFIDENCE": 94.15139770507812
+    },
+    {
+      "TEXT": "AIR",
+      "LABEL": "LINE",
+      "CONFIDENCE": 98.07061767578125
+    },
+    {
+      "TEXT": "FUEL",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.86058807373047
+    },
+    {
+      "TEXT": "DEF",
+      "LABEL": "LINE",
+      "CONFIDENCE": 93.38729095458984
+    },
+    {
+      "TEXT": "100.",
+      "LABEL": "LINE",
+      "CONFIDENCE": 92.18595886230469
+    },
+    {
+      "TEXT": "WATER",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.93355560302734
+    },
+    {
+      "TEXT": "OIL",
+      "LABEL": "LINE",
+      "CONFIDENCE": 99.55430603027344
+    },
+    {
+      "TEXT": "ULTRA LOW SULFUR",
+      "LABEL": "LINE",
+      "CONFIDENCE": 92.95901489257812
+    },
+    {
+      "TEXT": "Home",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.69217681884766
+    },
+    {
+      "TEXT": "45",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.70236206054688
+    },
+    {
+      "TEXT": "35",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.66242218017578
+    },
+    {
+      "TEXT": "55",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.47936248779297
+    },
+    {
+      "TEXT": "Trip",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.53218841552734
+    },
+    {
+      "TEXT": "mpg:",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.38326263427734
+    },
+    {
+      "TEXT": "8.5",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.25244140625
+    },
+    {
+      "TEXT": "70",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.06353759765625
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.0073013305664
+    },
+    {
+      "TEXT": "òs",
+      "LABEL": "WORD",
+      "CONFIDENCE": 75.68643951416016
+    },
+    {
+      "TEXT": "90",
+      "LABEL": "WORD",
+      "CONFIDENCE": 92.86682891845703
+    },
+    {
+      "TEXT": "65",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.37149810791016
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.65277862548828
+    },
+    {
+      "TEXT": "10",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.05274200439453
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.65119171142578
+    },
+    {
+      "TEXT": "20",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.76643371582031
+    },
+    {
+      "TEXT": "1530.",
+      "LABEL": "WORD",
+      "CONFIDENCE": 53.55539321899414
+    },
+    {
+      "TEXT": ".110",
+      "LABEL": "WORD",
+      "CONFIDENCE": 42.10576248168945
+    },
+    {
+      "TEXT": ":",
+      "LABEL": "WORD",
+      "CONFIDENCE": 77.17203521728516
+    },
+    {
+      "TEXT": "15",
+      "LABEL": "WORD",
+      "CONFIDENCE": 96.9745864868164
+    },
+    {
+      "TEXT": "75",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.31672668457031
+    },
+    {
+      "TEXT": "10",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.44719696044922
+    },
+    {
+      "TEXT": "-130",
+      "LABEL": "WORD",
+      "CONFIDENCE": 96.16455078125
+    },
+    {
+      "TEXT": "5",
+      "LABEL": "WORD",
+      "CONFIDENCE": 96.71186065673828
+    },
+    {
+      "TEXT": "10-",
+      "LABEL": "WORD",
+      "CONFIDENCE": 90.65583801269531
+    },
+    {
+      "TEXT": "62 F",
+      "LABEL": "WORD",
+      "CONFIDENCE": 89.50155639648438
+    },
+    {
+      "TEXT": "85-",
+      "LABEL": "WORD",
+      "CONFIDENCE": 95.1279067993164
+    },
+    {
+      "TEXT": "25",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.9503173828125
+    },
+    {
+      "TEXT": "528,756",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.4496841430664
+    },
+    {
+      "TEXT": "mi",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.393310546875
+    },
+    {
+      "TEXT": "12.4",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.00227355957031
+    },
+    {
+      "TEXT": "V",
+      "LABEL": "WORD",
+      "CONFIDENCE": 90.22409057617188
+    },
+    {
+      "TEXT": "MPH",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.2541732788086
+    },
+    {
+      "TEXT": "RPM",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.39788818359375
+    },
+    {
+      "TEXT": "km/h",
+      "LABEL": "WORD",
+      "CONFIDENCE": 53.84327697753906
+    },
+    {
+      "TEXT": "N",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.79086303710938
+    },
+    {
+      "TEXT": "100",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.39971923828125
+    },
+    {
+      "TEXT": "x100",
+      "LABEL": "WORD",
+      "CONFIDENCE": 91.4607925415039
+    },
+    {
+      "TEXT": "v2",
+      "LABEL": "WORD",
+      "CONFIDENCE": 49.288841247558594
+    },
+    {
+      "TEXT": "50",
+      "LABEL": "WORD",
+      "CONFIDENCE": 83.37896728515625
+    },
+    {
+      "TEXT": "200",
+      "LABEL": "WORD",
+      "CONFIDENCE": 61.400569915771484
+    },
+    {
+      "TEXT": "mph",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.59541320800781
+    },
+    {
+      "TEXT": "E",
+      "LABEL": "WORD",
+      "CONFIDENCE": 92.92676544189453
+    },
+    {
+      "TEXT": "PS",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.02101135253906
+    },
+    {
+      "TEXT": "150",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.64962005615234
+    },
+    {
+      "TEXT": "50",
+      "LABEL": "WORD",
+      "CONFIDENCE": 96.60968017578125
+    },
+    {
+      "TEXT": "economy",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.46995544433594
+    },
+    {
+      "TEXT": "150",
+      "LABEL": "WORD",
+      "CONFIDENCE": 92.03157043457031
+    },
+    {
+      "TEXT": "250",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.80840301513672
+    },
+    {
+      "TEXT": "°F",
+      "LABEL": "WORD",
+      "CONFIDENCE": 79.0084228515625
+    },
+    {
+      "TEXT": "PSI",
+      "LABEL": "WORD",
+      "CONFIDENCE": 97.18704223632812
+    },
+    {
+      "TEXT": "06:09",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.16545104980469
+    },
+    {
+      "TEXT": "pm",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.34945678710938
+    },
+    {
+      "TEXT": "F",
+      "LABEL": "WORD",
+      "CONFIDENCE": 94.15139770507812
+    },
+    {
+      "TEXT": "AIR",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.07061767578125
+    },
+    {
+      "TEXT": "FUEL",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.86058807373047
+    },
+    {
+      "TEXT": "DEF",
+      "LABEL": "WORD",
+      "CONFIDENCE": 93.38729095458984
+    },
+    {
+      "TEXT": "100.",
+      "LABEL": "WORD",
+      "CONFIDENCE": 92.18595886230469
+    },
+    {
+      "TEXT": "WATER",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.93355560302734
+    },
+    {
+      "TEXT": "OIL",
+      "LABEL": "WORD",
+      "CONFIDENCE": 99.55430603027344
+    },
+    {
+      "TEXT": "ULTRA",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.42998504638672
+    },
+    {
+      "TEXT": "LOW",
+      "LABEL": "WORD",
+      "CONFIDENCE": 81.64665985107422
+    },
+    {
+      "TEXT": "SULFUR",
+      "LABEL": "WORD",
+      "CONFIDENCE": 98.80040740966797
+    }
+  ]

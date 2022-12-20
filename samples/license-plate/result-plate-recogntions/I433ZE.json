@@ -1,0 +1,52 @@
+{
+	"processing_time": 69.197,
+	"results": [
+		{
+			"box": {
+				"xmin": 161,
+				"ymin": 643,
+				"xmax": 224,
+				"ymax": 673
+			},
+			"plate": "i433ze",
+			"region": {
+				"code": "us-fl",
+				"score": 0.942
+			},
+			"score": 0.798,
+			"candidates": [
+				{
+					"score": 0.798,
+					"plate": "i433ze"
+				},
+				{
+					"score": 0.79,
+					"plate": "i733ze"
+				},
+				{
+					"score": 0.661,
+					"plate": "1433ze"
+				},
+				{
+					"score": 0.653,
+					"plate": "1733ze"
+				}
+			],
+			"dscore": 0.577,
+			"vehicle": {
+				"score": 0.584,
+				"type": "Big Truck",
+				"box": {
+					"xmin": 65,
+					"ymin": 103,
+					"xmax": 767,
+					"ymax": 972
+				}
+			}
+		}
+	],
+	"filename": "1858_39Eaa_0ccf2caf-d5cd-4e3e-ab40-3b3b8f686486.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T18:58:23.732736Z"
+}

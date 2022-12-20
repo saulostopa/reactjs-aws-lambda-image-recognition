@@ -1,0 +1,52 @@
+{
+	"processing_time": 77.932,
+	"results": [
+		{
+			"box": {
+				"xmin": 346,
+				"ymin": 650,
+				"xmax": 426,
+				"ymax": 683
+			},
+			"plate": "3040779",
+			"region": {
+				"code": "us-in",
+				"score": 0.72
+			},
+			"score": 0.889,
+			"candidates": [
+				{
+					"score": 0.889,
+					"plate": "3040779"
+				},
+				{
+					"score": 0.888,
+					"plate": "304o779"
+				},
+				{
+					"score": 0.888,
+					"plate": "3o40779"
+				},
+				{
+					"score": 0.886,
+					"plate": "3o4o779"
+				}
+			],
+			"dscore": 0.826,
+			"vehicle": {
+				"score": 0.57,
+				"type": "Big Truck",
+				"box": {
+					"xmin": 60,
+					"ymin": 94,
+					"xmax": 658,
+					"ymax": 709
+				}
+			}
+		}
+	],
+	"filename": "1912_tLavR_ed1c8ab4-ca78-4b2b-aeee-7be6f08ca0f3.jpg",
+	"version": 1,
+	"camera_id": null,
+	"timestamp": "2022-06-28T19:12:07.481292Z"
+}
